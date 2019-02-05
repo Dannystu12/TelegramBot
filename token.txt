@@ -1,0 +1,2 @@
+797024081:AAGsxyOl9rIHf-mwny0Rm9UQJaljvTaFcI0
+https://api.telegram.org/797024081:AAGsxyOl9rIHf-mwny0Rm9UQJaljvTaFcI0/getMe
